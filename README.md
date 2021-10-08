@@ -1,2 +1,2 @@
 # TestRepo
-Testing git command repository
+Testing git command remote repository
